@@ -1,0 +1,8 @@
+https://docs.docker.com/desktop/setup/install/windows-install/
+https://docs.docker.com/desktop/setup/install/mac-install/
+https://docs.docker.com/desktop/setup/install/linux/
+https://www.techrepublic.com/article/install-docker-chromeos/
+https://docs.docker.com/get-started/introduction/
+https://docs.docker.com/get-started/docker_cheatsheet.pdf
+https://www.youtube.com/watch?v=4NB0NDtOwIQ&ab_channel=ByteByteGo
+https://www.youtube.com/watch?v=b_O501x_F68&ab_channel=AntonPutra
